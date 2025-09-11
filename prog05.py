@@ -4,10 +4,10 @@
 # Si es un carácter o varios, se pondrá en otra lista.
 # Al final, se mostrará cuántos números y cuántos caracteres se ingresaron.
 
-numeros = [0,0,0,0,0,0,0,0,0,0]  # Arreglo para números
-b = []                           # Lista para caracteres
-n = 0                             # Contador de números
-e = 0                            # Contador de caracteres
+numeros = [0,0,0,0,0,0,0,0,0,0]
+b = []
+n = 0
+e = 0
 
   
 for i in range(10):
